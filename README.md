@@ -1,7 +1,11 @@
 # Supply-Chain-Management-Project
 Interactive Power BI dashboard showing inventory, sales, supplier, and shipping metrics.Dashboard analyzing supply chain performance with Excel data. Includes KPIs for sales, inventory, supplier lead time, and shipping reliability. Built end-to-end with data cleaning, modeling, and interactive visuals. Demonstrates skills in Power Query, DAX, and dashboard design for business decision-making and portfolio showcase.
 
-## Quick links
+## Live Dashboard
+- [View on Power BI](https://app.powerbi.com/view?r=eyJrIjoiZThjOGEyMjYtZmIyNi00ZmU4LTg0ZTctZDMwMDQ5OWYzZDUwIiwidCI6IjA5YmFlYWU1LWVhZTAtNGZhOC1hMTliLWU2NjBkOWM1NzEwOCIsImMiOjl9)
+
+   
+## Project Files
 - View dashboard PDF: [Open PDF](https://github.com/asadkarim1/Supply-Chain-Management-Project/blob/main/Supply%20Chain%20Management%20Dashboard.pdf)
 - Download dataset: [supply_chain_dataset_clean.xlsx](https://github.com/asadkarim1/Supply-Chain-Management-Project/blob/main/Supply%20Chain%20Mgt%20Dataset.xlsx)
 
